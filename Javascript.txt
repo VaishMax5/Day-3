@@ -1,0 +1,30 @@
+Javascript is a high-level Programming or scripting language used to make our websites and web applications interactive.
+
+Ways to add javascript to HTML:
+1) Inline
+2) Internal
+3) External
+
+Few predefined functions:
+alert
+prompt
+console.log
+document.write
+
+Variable declaration
+var 
+let
+const
+
+Rules to write variables:
+1) variables start with letter or $ or _
+2) variables include only letter, number, _ and $
+3) variables are case sensitive
+4) variables cannot be reserved keywords like for, if, else, etc.
+
+
+== will only check the value
+=== will check the value and datatype of the two comparing variables
+
+null - gives a null value( in cansole it will return object)
+undefined - will not return any value that is it is delcared but empty
